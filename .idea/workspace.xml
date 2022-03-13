@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53d06a64-b4db-4498-adb9-882ad3cc998d" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/behavior/strategy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/behavior/template.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="53d06a64-b4db-4498-adb9-882ad3cc998d" name="Changes" comment="Changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +77,7 @@
       <workItem from="1646396708352" duration="247000" />
       <workItem from="1646397693782" duration="53000" />
       <workItem from="1646397810931" duration="4111000" />
-      <workItem from="1647158083374" duration="1868000" />
+      <workItem from="1647158083374" duration="2269000" />
     </task>
     <servers />
   </component>
