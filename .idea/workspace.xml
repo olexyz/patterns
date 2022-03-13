@@ -2,28 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53d06a64-b4db-4498-adb9-882ad3cc998d" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/patterns.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/behavior/chain_of_responsability.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/behavior/command.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/behavior/iterator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/behavior/mediator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/behavior/observer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/behavior/state.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/creational/constructor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/creational/factory.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/creational/prototype.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/creational/singleton.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/structural/adapter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/structural/decorator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/structural/facade.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/structural/flyweight.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/structural/proxy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/behavior/strategy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/behavior/template.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +13,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="20VHYXLlojw4UHOskYF3XOGJoiv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -56,13 +45,15 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -90,6 +81,7 @@
       <workItem from="1646396708352" duration="247000" />
       <workItem from="1646397693782" duration="53000" />
       <workItem from="1646397810931" duration="4111000" />
+      <workItem from="1647158083374" duration="1868000" />
     </task>
     <servers />
   </component>
